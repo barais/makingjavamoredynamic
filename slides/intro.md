@@ -655,6 +655,7 @@ assertThat(dynamicMethod.getGenericParameterTypes()[0],
   - allow to by pass the Java Type system
   - really efficient
   - pleasant API
+  - can work with scala, ...
   - require Java agent to **redefine class**
 
   ----
