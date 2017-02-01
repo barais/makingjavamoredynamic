@@ -658,8 +658,8 @@ assertThat(dynamicMethod.getGenericParameterTypes()[0],
   - can work with scala, ...
   - require Java agent to **redefine class**
 
-  ----
-  ## Next steps
+----
+## Next steps
 
 - Write spoon processors, compile them to ASM transformations on bytecode or Byte Buddy
 - Implement Model Type using Byte Buddy ?
