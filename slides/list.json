@@ -1,9 +1,4 @@
 [
     "index.md",
-    "plan.md",
-    "javascript.md",
-    "tooling.md",
-    "nodejs.md",
-    "typescript.md",
-    "angularjsv1.md"
+    "intro.md"
 ]
