@@ -650,7 +650,6 @@ assertThat(dynamicMethod.getGenericParameterTypes()[0],
   - Fined grained transformation with spoon
   - Works for GWT, Android
   - pleasant API
-
 - ByteBuddy
   - allow to by pass the Java Type system
   - really efficient
